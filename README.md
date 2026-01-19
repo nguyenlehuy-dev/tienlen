@@ -1,1 +1,1 @@
-# tienlen
+# Đây là web tính điểm, không có chức năng gì khác!
